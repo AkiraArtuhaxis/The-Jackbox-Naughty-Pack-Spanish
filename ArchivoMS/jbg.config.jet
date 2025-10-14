@@ -1,0 +1,22 @@
+{
+	"allowIntroSkip":"true",
+	"video-extension":".usm",
+	"videoplayer":"true",
+	"env":"console",
+	"defaultLocale":"en",
+	"versionId":"1.0.0",
+	"isBundle":"true",
+	"preventDispose":"true",
+	"serverUrl":"ecast.jackboxgames.com",
+	"needExitbutton":"false",
+	"legalText":"jackboxFmodCriware",
+	"connectingDurationAbort":"30000",
+	"showBuildVersion":"true",
+	"gameName":"TJPPLoader",
+	"audio-extension":".ogg",
+	"supportedLocales":"en,fr,it,de,es,es-XL,pt-BR",
+	"allowUserSwitching":"true",
+	"connectingDurationTrouble":"7000",
+	"buildTimeStamp":"2025-01-16 11:15:35",
+	"buildVersion":"627.1-ES"
+}
